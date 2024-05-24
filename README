@@ -26,6 +26,7 @@ Preprocessed data is stored in the `derivatives` folder in both fif and pkl form
 
 The `textdataset` folder and `json` folder contain text data used to stimulate the participants.
 
+### File Structure
 ```
 /Chisco
     /sub-01
