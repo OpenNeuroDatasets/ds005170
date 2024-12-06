@@ -1,0 +1,4 @@
+# Ignore the simulated EEG data file in the root directory
+/textdataset/**
+/json/**
+
